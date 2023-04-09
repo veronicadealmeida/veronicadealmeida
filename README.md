@@ -21,7 +21,7 @@
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação e do bom humor.
 
 <br>
-Trabalho com tecnologia há mais de 10 anos com AdvPl (linguagem proprietária da Totvs) e agora estou abrindo novos caminhos com as linguagens de mercado utilizadas também pela Totvs (e um pouco mais :wink:).
+Trabalho com tecnologia há mais de 10 anos, busco sempre atualizar-me com o que tem de novo no mercado e agora mergulhando fundo em JAVA (e um pouco mais :wink:).
 
 ## Uma pequena amostra dos meus projetos
 - [Desafio NLW Rocketseat - landing page com HTML, CSS e JavaScript](https://veronicadealmeida.github.io/beautysalon/)<br>
