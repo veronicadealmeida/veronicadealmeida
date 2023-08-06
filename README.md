@@ -28,4 +28,4 @@ Como todo autodidata, estou sempre buscando novos desafios e novas tecnologias. 
 ## Uma pequena amostra dos meus projetos
 - [Desafio NLW Rocketseat - landing page com HTML, CSS e JavaScript](https://beauty-salon-vda.netlify.app/)<br>
 - <a href="https://myassist-vda.netlify.app/" target="_blank">Aplicação para controle de uma Assistência Técnica</a>
-- [Pokedex Angular](https://veronicadealmeida.github.io/pokedex-angular/)
+- [Pokedex Angular](https://github.com/veronicadealmeida/pokedex-angular)
