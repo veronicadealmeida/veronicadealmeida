@@ -21,8 +21,11 @@
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação e do bom humor.
 
 <br>
-Trabalho com tecnologia há mais de 10 anos, busco sempre atualizar-me com o que tem de novo no mercado e agora mergulhando fundo em JAVA (e um pouco mais :wink:).
+Trabalho com tecnologia há mais de 10 anos, busco sempre atualizar-me com o que tem de novo no mercado e agora mergulhando fundo em JAVA e React.
+
+Como todo autodidata, estou sempre buscando novos desafios e novas tecnologias. Confira abaixo alguns projetos:
 
 ## Uma pequena amostra dos meus projetos
-- [Desafio NLW Rocketseat - landing page com HTML, CSS e JavaScript](https://veronicadealmeida.github.io/beautysalon/)<br>
+- [Desafio NLW Rocketseat - landing page com HTML, CSS e JavaScript](https://beauty-salon-vda.netlify.app/)<br>
+- [Aplicação desenvolvida durante a Imersão Java (FIAP) HTML com Figma]([https://myassist-vda.netlify.app/)
 - [Pokedex Angular](https://veronicadealmeida.github.io/pokedex-angular/)
