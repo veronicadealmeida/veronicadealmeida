@@ -29,6 +29,6 @@ Como todo autodidata, estou sempre buscando novos desafios e novas tecnologias. 
 - [Desafio NLW Rocketseat - landing page com HTML, CSS e JavaScript](https://beauty-salon-vda.netlify.app/)<br>
 - <a href="https://myassist-vda.netlify.app/" target="_blank">Aplicação para controle de uma Assistência Técnica</a>
 - [Pokedex Angular](https://github.com/veronicadealmeida/pokedex-angular) <br>
-- <a href="https://github.com/veronicadealmeida/jokenpo-js" target="_blank">Jogo Jokenpo desenvilvido com JavaScript</a>
+- <a href="https://github.com/veronicadealmeida/jokenpo-js" target="_blank">Jogo Jokenpo desenvolvido com JavaScript</a>
 
 
